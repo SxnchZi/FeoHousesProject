@@ -62,6 +62,7 @@ https://localhost:3000
 ### ⚛️ Внешний вид
 
 ![alt text](image.png)
+![alt text](image1.png)
 
 ## 📞 Поддержка
 
